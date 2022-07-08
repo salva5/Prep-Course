@@ -4,7 +4,7 @@ const {
   nuevoNum,
   nuevoBool,
   nuevaResta,
-  nuevaMultiplicacion,
+  nuevaMultiplicacion ,
   nuevoModulo,
   devolverString,
   tienenMismaLongitud,
