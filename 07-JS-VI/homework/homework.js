@@ -63,7 +63,6 @@ function filter(array) {
   }
   return nuevoArray;
 }
-
 // No modificar nada debajo de esta línea
 // --------------------------------
 
